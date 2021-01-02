@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c72e8025-4907-435d-81f7-7e6cbc85c2dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mWAaSKr1bQrlTS7Yw2A4bwWJPE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.GameLauncher">
+    <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classesandobjects.DogTestDrive" />
+      <module name="headfirstjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classesandobjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classesandobjects.guessinggame.GameLauncher" />
+      <module name="headfirstjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classesandobjects.guessinggame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classesandobjects.MovieTestDrive" />
+      <module name="headfirstjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classesandobjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameLauncher" />
+        <item itemvalue="Application.MovieTestDrive" />
+        <item itemvalue="Application.DogTestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c72e8025-4907-435d-81f7-7e6cbc85c2dd" name="Default Changelist" comment="" />
+      <created>1609599036664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609599036664</updated>
+      <workItem from="1609599040724" duration="6064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom" timestamp="1609609087037">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609609087037" />
+    <state width="1493" height="197" key="GridCell.Tab.0.center" timestamp="1609609087036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609609087036" />
+    <state width="1493" height="197" key="GridCell.Tab.0.left" timestamp="1609609087036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609609087036" />
+    <state width="1493" height="197" key="GridCell.Tab.0.right" timestamp="1609609087036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609609087036" />
+    <state x="623" y="-853" width="672" height="678" key="search.everywhere.popup" timestamp="1609599048968">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="623" y="-853" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1609599048968" />
+  </component>
+</project>
