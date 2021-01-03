@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c72e8025-4907-435d-81f7-7e6cbc85c2dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/GoodDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/GoodDogTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609599036664</updated>
       <workItem from="1609599040724" duration="7882000" />
+      <workItem from="1609630314855" duration="821000" />
     </task>
     <servers />
   </component>
@@ -135,14 +133,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="126" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609630194004" />
-    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1609630317250">
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1609669197038">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609630317250" />
-    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup" timestamp="1609609783029">
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609669197038" />
+    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup" timestamp="1609630518230">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="623" y="-853" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1609599048968" />
-    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609609783029" />
+    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1609630518230" />
   </component>
 </project>
